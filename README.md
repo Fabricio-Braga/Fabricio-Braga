@@ -1,8 +1,14 @@
 # 👋👋 Fabricio Martins
 
-**`A new Developer`**
+**Backend Development Student | Focusing on Java.**
 
- Hello! My name is Fabricio, I am 16 years old, and I study at IFsul. I am in my second year of technical education and am always looking to learn new things.
+I am a Software Development student currently focusing on **Backend Engineering** and computational logic. 
+
+---
+
+### 🚀 What I'm Working On
+- **Backend Architecture:** Developing modular CLI and Web applications to practice data persistence and clean logic.
+- **Academic Projects:** Building high-standard projects as part of my technical track studies at IFSul.
 
 ---
 
